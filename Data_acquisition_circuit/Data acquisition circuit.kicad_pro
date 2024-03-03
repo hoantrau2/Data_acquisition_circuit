@@ -475,6 +475,18 @@
     [
       "46c07c2b-e511-43b7-b737-27febef8028c",
       "MAX3232"
+    ],
+    [
+      "ff293317-71c7-46d8-b0d4-88e0b998f31e",
+      "Encoder_and_digital_input"
+    ],
+    [
+      "fc24ae42-38bb-47e7-b5cf-739ccf1d1089",
+      "AQ"
+    ],
+    [
+      "64241bff-6be2-4de8-ab96-8d24081a216d",
+      "power "
     ]
   ],
   "text_variables": {}
