@@ -482,11 +482,15 @@
     ],
     [
       "fc24ae42-38bb-47e7-b5cf-739ccf1d1089",
-      "AQ"
+      "Amplifier"
     ],
     [
       "64241bff-6be2-4de8-ab96-8d24081a216d",
       "power "
+    ],
+    [
+      "f74a05ea-fdc1-4ba9-8b08-af2bb34ef7bb",
+      "ADC"
     ]
   ],
   "text_variables": {}
